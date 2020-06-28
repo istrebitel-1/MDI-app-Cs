@@ -7,3 +7,7 @@ To run this project open `./MDIproject/bin/Debug/MDiproject.exe` or `./MDIprojec
 
 To edit project you need to install **Microsoft Visual Studio**, template **Windows Forms App (.NET Framework)** 
 and **.NET Framework v 7.4.2**. Then just open `MDIapp.sln`
+
+## What app can do? ##
+
+This app can create and edit hierarchical structures, save it to `.xml` and open from created one
