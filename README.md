@@ -1,4 +1,4 @@
-# MDI-app-C#
+# MDI app C#
 ## How to run project ##
 
 To run this project open `./MDIproject/bin/Debug/MDiproject.exe` or `./MDIproject/bin/Release/MDiproject.exe`
