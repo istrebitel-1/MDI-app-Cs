@@ -1,0 +1,13 @@
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\bin\Release\MDIproject.exe.config
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\bin\Release\MDIproject.exe
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\bin\Release\MDIproject.pdb
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.csprojAssemblyReference.cache
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.DFC.resources
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.Goose.resources
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.MDIparent.resources
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.Properties.Resources.resources
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.TreeViewEditor.resources
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.csproj.GenerateResource.cache
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.csproj.CoreCompileInputs.cache
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.exe
+D:\it's something cool\Дерево\2 курс (мб)\(со)Си решётка\MDIproject\MDIproject\obj\Release\MDIproject.pdb
